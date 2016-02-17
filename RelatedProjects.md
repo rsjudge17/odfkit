@@ -1,0 +1,10 @@
+Here are some other projects related to ODF from which we may borrow ideas:
+
+# ODFDOM #
+
+Currently Java-only, ODFDOM aims to offer an API to read and write documents in ODF.
+
+Links:
+  * Website: http://odftoolkit.org/projects/odfdom/pages/Home
+  * Download site: http://odftoolkit.org/projects/odfdom/downloads
+  * Code repository: http://odftoolkit.org/projects/odfdom/pages/Development#Get_and_Build_the_Source_Code

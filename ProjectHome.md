@@ -1,0 +1,1 @@
+A platform independent library for handling documents in ODF, the OpenDocument Format
